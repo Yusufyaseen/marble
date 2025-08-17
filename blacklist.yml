@@ -1,3 +1,7 @@
+catalogs:
+  - url: "https://data.opensanctions.org/datasets/latest/index.json"
+    scope: default
+    resource_name: entities.ftm.json
 datasets:
   - name: Cairo_stadium
     title: My Custom Blacklist 1
@@ -8,3 +12,8 @@ collections:
     title: All Custom Blacklists
     datasets:
       - Cairo_stadium
+  - name: all_data
+    title: All Data Including OpenSanctions
+    datasets:
+      - Cairo_stadium
+      - default
