@@ -1,8 +1,7 @@
 catalogs:
-
 datasets:
   - name: YusufYaseen
-    title: My Custom Blacklist 1
+    title: My Custom Blacklist 1 - For Mr Yusuf
     entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
     version: 1.0
 collections:
