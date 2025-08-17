@@ -12,4 +12,3 @@ collections:
     title: All Data Including OpenSanctions
     datasets:
       - cairo_stadium
-      - default
