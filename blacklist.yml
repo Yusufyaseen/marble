@@ -7,11 +7,16 @@ datasets:
     title: My Custom Blacklist 1
     entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
     version: 1.0
+  - name: alex_stadium
+    title: My Custom Blacklist 2
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
+    version: 1.0
 collections:
   - name: all_custom_blacklists
     title: All Custom Blacklists
     datasets:
       - cairo_stadium
+      - alex_stadium
   - name: all_data
     title: All Data Including OpenSanctions
     datasets:
