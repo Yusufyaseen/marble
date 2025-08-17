@@ -1,2 +1,22 @@
-{"id": "blacklist1-person1", "schema": "Person", "properties": {"name": "John Doe", "birthDate": "1970-01-01"}}
-{"id": "blacklist1-person2", "schema": "Person", "properties": {"name": "Jane Smith", "birthDate": "1980-02-02"}}
+[
+  {
+    "id": "person-123",
+    "schema": "Person",
+    "properties": {
+      "name": ["John Doe"],
+      "birthDate": ["1985-06-15"],
+      "nationality": ["US"],
+      "passportNumber": ["X1234567"]
+    }
+  },
+  {
+    "id": "company-456",
+    "schema": "Company",
+    "properties": {
+      "name": ["Global Trade Ltd."],
+      "incorporationDate": ["2010-03-22"],
+      "country": ["GB"],
+      "registrationNumber": ["987654321"]
+    }
+  }
+]
