@@ -5,7 +5,7 @@ catalogs:
 datasets:
   - name: custom_blacklist1
     title: My Custom Blacklist 1
-    entities_url: https://github.com/Yusufyaseen/marble/blob/master/custom-blacklist1.json
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
     version: 1.0
 collections:
   - name: all_custom_blacklists
