@@ -11,9 +11,9 @@ collections:
   - name: all_custom_blacklists
     title: All Custom Blacklists
     datasets:
-      - Cairo_stadium
+      - cairo_stadium
   - name: all_data
     title: All Data Including OpenSanctions
     datasets:
-      - Cairo_stadium
+      - cairo_stadium
       - default
