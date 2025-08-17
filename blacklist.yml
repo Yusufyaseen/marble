@@ -3,17 +3,3 @@ catalogs:
     scope: default
     resource_name: entities.ftm.json
 datasets:
-  - name: Cairo_stadium
-    title: My Custom Blacklist 1
-    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
-    version: 1.0
-collections:
-  - name: all_custom_blacklists
-    title: All Custom Blacklists
-    datasets:
-      - Cairo_stadium
-  - name: all_data
-    title: All Data Including OpenSanctions
-    datasets:
-      - Cairo_stadium
-      - default
