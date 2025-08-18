@@ -1,2 +1,2 @@
-{"id": "blacklist1-person1", "schema": "Person", "properties": {"name": "Alice Marie Dupont", "birthDate": "1975-03-12", "nationality": "FR", "address": "123 Rue de Paris, 75001 Paris, France", "passportNumber": "FR123456789"}}
-{"id": "blacklist1-person2", "schema": "Person", "properties": {"name": "Rahul Sanjay Patel", "birthDate": "1982-09-25", "nationality": "IN", "address": "456 MG Road, Mumbai, India", "idNumber": "IN987654321"}}
+{"id": "blacklist1-person1", "schema": "Person", "properties": {"name": ["Alice Marie Dupont"], "birthDate": ["1975-03-12"], "nationality": ["FR"], "address": ["123 Rue de Paris, 75001 Paris, France"], "passportNumber": ["FR123456789"]}}
+{"id": "blacklist1-person2", "schema": "Person", "properties": {"name": ["Rahul Sanjay Patel"], "birthDate": ["1982-09-25"], "nationality": ["IN"], "address": ["456 MG Road, Mumbai, India"], "idNumber": ["IN987654321"]}}
