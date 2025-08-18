@@ -11,8 +11,12 @@ datasets:
     title: My Custom Blacklist 2
     entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
     version: 1.0
-  - name: suez22_stadium
+  - name: suez_stadium
     title: My Custom Blacklist 3
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
+    version: 1.0
+  - name: suez22_stadium
+    title: My Custom Blacklist 4
     entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
     version: 1.0
 collections:
@@ -21,7 +25,7 @@ collections:
     datasets:
       - cairo_stadium
       - alex33_stadium
-      - suez22_stadium
+      - suez_stadium
   - name: all_data
     title: All Data Including OpenSanctions
     datasets:
