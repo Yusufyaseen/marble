@@ -3,5 +3,3 @@
 {"id": "blacklist1-alex-person3", "schema": "Person", "properties": {"name": ["Saad Yaseen"], "birthDate": ["2001-02-03"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
 {"id": "blacklist1-alex-person4", "schema": "Person", "properties": {"name": ["Maro Ashraf"], "birthDate": ["2001-02-03"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
 {"id": "blacklist1-alex-person5", "schema": "Person", "properties": {"name": ["Salakawy Yaseen"], "birthDate": ["2001-01-03"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
-{"id": "blacklist1-alex-person6", "schema": "Person", "properties": {"name": ["Ashraf Yaseen"], "birthDate": ["2001-10-03"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
-{"id": "blacklist1-alex-person7", "schema": "Person", "properties": {"name": ["Dagher Yaseen"], "birthDate": ["2011-07-03"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
