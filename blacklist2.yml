@@ -6,19 +6,19 @@ datasets:
   - name: cairo_stadium
     title: My Custom Blacklist 1
     entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
-    version: 2.2
+    version: 2.3
   - name: alex_stadium
     title: My Custom Blacklist 2
     entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom2.json
-    version: 2.2
+    version: 2.3
   - name: suez_stadium
     title: My Custom Blacklist 3
     entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
-    version: 2.2
+    version: 2.3
   - name: asiut_stadium
     title: My Custom Blacklist 5
     entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
-    version: 2.2
+    version: 2.3
 collections:
   - name: all_custom_blacklists
     title: All Custom Blacklists
