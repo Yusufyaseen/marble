@@ -1,0 +1,3 @@
+{"id": "blacklist1-person1", "schema": "Person", "properties": {"name": ["Samira Marie Dupont"], "birthDate": ["1975-03-12"], "nationality": ["FR"], "address": ["1223 Rue de Paris, 75001 Paris, France"], "passportNumber": ["FR123456789"]}}
+{"id": "blacklist1-person2", "schema": "Person", "properties": {"name": ["Hassan Sanjay Patel"], "birthDate": ["1982-09-25"], "nationality": ["IN"], "address": ["Giza, Hadayek, Octoper"], "idNumber": ["IN987654321"]}}
+{"id": "blacklist1-person3", "schema": "Person", "properties": {"name": ["Saad Yaseen"], "birthDate": ["2001-19-03"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
