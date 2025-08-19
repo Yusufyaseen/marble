@@ -3,3 +3,4 @@
 {"id": "blacklist1-cairo-person3", "schema": "Person", "properties": {"name": ["Yusuf Yaseen"], "birthDate": ["2001-19-03"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
 {"id": "blacklist1-cairo-person4", "schema": "Person", "properties": {"name": ["Samir Hanafy"], "birthDate": ["2001-19-03"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
 {"id": "blacklist1-cairo-person5", "schema": "Person", "properties": {"name": ["Johaina Hanafy"], "birthDate": ["2009-19-07"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
+{"id": "blacklist1-cairo-person6", "schema": "Person", "properties": {"name": ["Hasnaa Samir"], "birthDate": ["2009-19-07"], "nationality": ["IN"], "address": ["Boulaq, Egypt, Misr"], "idNumber": ["IN98765ss4321"]}}
