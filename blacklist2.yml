@@ -1,4 +1,3 @@
-catalogs:
 datasets:
   - name: cairo_stadium
     title: My Custom Blacklist 1
