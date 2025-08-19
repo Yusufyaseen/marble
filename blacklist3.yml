@@ -1,0 +1,31 @@
+catalogs:
+  - url: "https://data.opensanctions.org/datasets/latest/index.json"
+    scope: default
+    resource_name: entities.ftm.json
+datasets:
+  - name: cairo_stadium
+    title: My Custom Blacklist 1
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
+    version: 2.5
+  - name: alex_stadium
+    title: My Custom Blacklist 2
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom2.json
+    version: 2.5
+  - name: suez_stadium
+    title: My Custom Blacklist 3
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
+    version: 2.5
+  - name: asiut_stadium
+    title: My Custom Blacklist 5
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
+    version: 2.5
+collections:
+  - name: all_custom_blacklists
+    title: All Custom Blacklists
+    datasets:
+      - cairo_stadium
+  - name: all_data
+    title: All Data Including OpenSanctions
+    datasets:
+      - cairo_stadium
+      - default
