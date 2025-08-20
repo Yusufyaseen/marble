@@ -5,11 +5,11 @@ catalogs:
 datasets:
   - name: cairo_stadium
     title: My Custom Blacklist 1
-    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom-blacklist1.json?nocache=20250820
     version: 2.0
   - name: alex_stadium
     title: My Custom Blacklist 2
-    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom2.json
+    entities_url: https://raw.githubusercontent.com/Yusufyaseen/marble/master/custom2.json?nocache=20250820
     version: 2.0
 collections:
   - name: all_custom_blacklists
